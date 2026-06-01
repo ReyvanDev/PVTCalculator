@@ -22,6 +22,7 @@ The application provides a graphical interface for calculating reservoir fluid p
   - Standing
   - Vasquez-Beggs
   - Petrosky-Farshad
+  ![PVT Calculator Preview](assets/Oil.png)
 
 ### Gas Properties
 - Pseudocritical pressure and temperature
@@ -34,6 +35,7 @@ The application provides a graphical interface for calculating reservoir fluid p
 - Z-factor methods:
   - Dranchuk-Abou-Kassem
   - Hall-Yarborough
+![PVT Calculator Preview](assets/Gas.png)
 
 ### Water Properties
 - Water formation volume factor, Bw
@@ -41,6 +43,7 @@ The application provides a graphical interface for calculating reservoir fluid p
 - Water viscosity
 - Dissolved gas in water, Rsw
 - Water compressibility
+![PVT Calculator Preview](assets/Water.png)
 
 ### Property Tables and Charts
 - Generate PVT property tables over a pressure range
