@@ -106,11 +106,8 @@ python src/pvt_calculator.py
 ```
 
 ## Author
-
 Muhammad Reyvan Andrian  
 Petroleum Engineering Student  
 Institut Teknologi Bandung
-
 ## License
-
 This project is licensed under the MIT License.
